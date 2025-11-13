@@ -166,6 +166,3 @@ If you use or modify this project, feel free to ⭐ the repository.
 
 ---
 
-## 📄 License
-
-This project is open-source under the **MIT License**. Add a `LICENSE` file for GitHub.
