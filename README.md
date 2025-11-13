@@ -3,7 +3,6 @@
 A complete end-to-end **database & analytics project** built around an airline reservation system. This project demonstrates **database design**, **SQL query development**, and **business intelligence dashboards** using **Power BI**, **Tableau**, and **PowerPoint**.
 
 Perfect for showcasing **data engineering**, **data analysis**, and **BI skills** in a portfolio.
-
 ---
 
 ## 🚀 Project Overview
